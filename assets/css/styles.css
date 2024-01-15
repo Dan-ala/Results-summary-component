@@ -143,11 +143,13 @@ h3{
 
 #numberOne, #numberTwo{
     background-color: none;
+    color: hsl(224, 30%, 30%);
     margin-left: 36%;
 }
 
 #numberThree, #numberFour{
     background-color: none;
+    color: hsl(224, 30%, 30%);
     margin-left: 40.5%;
 }
 
